@@ -15,7 +15,7 @@ common_cells_all:
     - src/edge_propagator_tx.sv
     - src/exp_backoff.sv
     - src/fifo_v3.sv
-    - src/graycode.sv
+    - src/gray_to_binary.sv
     - src/lfsr.sv
     - src/lfsr_16bit.sv
     - src/lfsr_8bit.sv
